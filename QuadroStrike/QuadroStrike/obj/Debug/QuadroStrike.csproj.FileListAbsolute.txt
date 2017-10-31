@@ -1,0 +1,72 @@
+E:\QuadroStrike\QuadroStrike\bin\Debug\QuadroStrike.exe
+E:\QuadroStrike\QuadroStrike\bin\Debug\QuadroStrike.pdb
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.FreeGlut.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.OpenGl.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Platform.Windows.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.FreeGlut.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.OpenGl.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Platform.Windows.xml
+E:\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.Form1.resources
+E:\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.Properties.Resources.resources
+E:\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.csproj.GenerateResource.Cache
+E:\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.exe
+E:\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.pdb
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Cg.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.DevIl.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.FFmpeg.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.FreeType.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Glfw.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Lua.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Ode.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.OpenAl.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.PhysFs.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Platform.X11.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Sdl.dll
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Cg.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.DevIl.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.FFmpeg.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.FreeType.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Glfw.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Lua.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Ode.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.OpenAl.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.PhysFs.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Platform.X11.xml
+E:\QuadroStrike\QuadroStrike\bin\Debug\Tao.Sdl.xml
+E:\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.csprojResolveAssemblyReference.cache
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.exe
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.pdb
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\QuadroStrike.exe
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\QuadroStrike.pdb
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Cg.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.DevIl.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.FFmpeg.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.FreeGlut.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.FreeType.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Glfw.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Lua.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Ode.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.OpenAl.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.OpenGl.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.PhysFs.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Platform.Windows.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Platform.X11.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Sdl.dll
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Cg.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.DevIl.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.FFmpeg.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.FreeGlut.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.FreeType.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Glfw.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Lua.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Ode.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.OpenAl.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.OpenGl.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.PhysFs.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Platform.Windows.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Platform.X11.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\bin\Debug\Tao.Sdl.xml
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.csprojResolveAssemblyReference.cache
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.Form1.resources
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.Properties.Resources.resources
+E:\мои игры\QuadroStrike\QuadroStrike\QuadroStrike\obj\Debug\QuadroStrike.csproj.GenerateResource.Cache
